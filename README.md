@@ -1,16 +1,21 @@
 
-# Press-Kit
-
-*Our official branding material.*
-
 <br>
 
 <div align = center>
 
+# Press Kit
+
+*Our official branding material.*
+
+<br>
+<br>
+
 ## Preview
 
-*The press kit contains the following media*  
-*in the form of 2000x2000 RGBA png images.*
+<br>
+
+*The press kit contains the following media in*  
+*the form of **2000 x 2000 RGBA PNG** images.*
 
 <br>
 <br>
